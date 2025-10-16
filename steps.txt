@@ -1,0 +1,7 @@
+commands :-
+ 2085  node -v
+ 2086  npm vite create@latest spa
+ 2087  npm create vite@latest spa
+ 2088  cd spa
+ 2089  npm install 
+ 2090  npm run dev 
